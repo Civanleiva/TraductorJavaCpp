@@ -1,4 +1,3 @@
-Java2Cpp-Translator
+TraductorJavaCpp
 ===================
-
-App translates Java source code to C++ source code.
+Traduce código fuente de Java a código fuente de C++
